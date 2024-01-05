@@ -1,2 +1,3 @@
-https://play.google.com/store/apps/details?id=com.id.todolist
-https://github.com/RizkiArk/todolist-app
+Google play : https://play.google.com/store/apps/details?id=com.id.todolist
+Repository : https://github.com/RizkiArk/todolist-app
+Video pitch deck : https://drive.google.com/drive/folders/19a1ahweMQKMdGZMVXiUDYjeuKtyEJ_zn?usp=sharing
